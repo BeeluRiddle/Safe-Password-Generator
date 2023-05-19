@@ -3,7 +3,7 @@
 
 ## ⟡ Description ⟡
 Do you still use the same password for everything? Is it troublesome to always think of a new and safe password? <br>
-Well look no further because the answer to those questions are right here!<br>
+*Well look no further because the answer to those questions are right here!*<br>
 Choose from one of my 3 password generators based on how much control you want to have on it, and stay safer online. <br>
 
 ## ⟡ Set-up ⟡
@@ -21,6 +21,7 @@ password = "".join(random.choice(char) for i in range(length))
 print("Your new safe password is: " + password)
 ```
 * Advanced
+![Demo](https://i.imgur.com/22RkJLa.gif)
 
 ## ⟡ Roadmap ⟡
 I have just finished this 3 versions, and for future updates, I would like to work on: <br>
@@ -34,6 +35,6 @@ Big thanks to *Ciberu* for the inspiration.
 Thank you so much for testing my generators. <br>
 Any feedback on inprovements is very much welcome. 
 
-⟡ Contact Info ⟡ <br>
+Contact Info <br>
 ✨ [Github](https://github.com/BeeluRiddle) - BeeluRiddle <br>
 ✨ [Linkedin](https://www.linkedin.com/in/belenzapata6/) - belenzapata6
