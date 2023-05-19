@@ -21,7 +21,7 @@ password = "".join(random.choice(char) for i in range(length))
 print("Your new safe password is: " + password)
 ```
 * Advanced <br>
-![Demo](https://i.imgur.com/su5Aa85.gif)
+![Demo](https://i.imgur.com/PpqoA5L.gif)
 
 ## ⟡ Roadmap ⟡
 I have just finished this 3 versions, and for future updates, I would like to work on: <br>
