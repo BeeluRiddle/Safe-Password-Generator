@@ -20,8 +20,8 @@ char = string.ascii_letters + string.digits + string.punctuation
 password = "".join(random.choice(char) for i in range(length))
 print("Your new safe password is: " + password)
 ```
-* Advanced
-![Demo](https://i.imgur.com/22RkJLa.gif)
+* Advanced <br>
+![Demo](https://i.imgur.com/su5Aa85.gif)
 
 ## ⟡ Roadmap ⟡
 I have just finished this 3 versions, and for future updates, I would like to work on: <br>
